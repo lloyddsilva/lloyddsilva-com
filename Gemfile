@@ -16,6 +16,7 @@ gem 'devise'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'thin'
+gem 'rails_admin'
 group :development do
   gem 'better_errors'
   gem 'hub', :require=>nil
